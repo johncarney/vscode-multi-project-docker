@@ -1,0 +1,9 @@
+common/profile/.bash_history
+common/profile/.gitconfig
+common/profile/.bashrc
+common/vscode-server/extensions/
+common/postgresql/data/
+
+vscmpd-example-project-a/
+vscmpd-example-project-b/
+vscmpd-example-project-c/
